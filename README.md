@@ -1,5 +1,7 @@
-### Olá! Eu me chamo Phillipe Ribeiro. Gosto muito da área da computação e quando conheci sobre a programação e o que ela pode fazer, foi um novo mundo de possibilidades e interesses na área que se abriu. Sou determinado e tenho foco nos objetivos que busco. Gosto de aprender. Quero me tornar um Dev Frontend. Atualmente estudo HTML5, CSS3 e Javascript. Quero continuar estudando e desenvolvendo projetos. Deixo abaixo o meu contato e minhas redes sociais para me conhecerem melhor.✌️
+### Olá! Eu me chamo Phillipe Ribeiro. Gosto muito da área da computação. Quero me tornar um Dev Front End. Atualmente estudo HTML5, CSS3 e Javascript. Quero continuar estudando e desenvolvendo projetos. Deixo abaixo o meu contato e minhas redes sociais para me conhecerem melhor.✌️
 <br/>
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://phillrocha@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phillribeiro)
@@ -7,12 +9,22 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipe-ribeiro-rocha-682a8b203/)
 
 ![phillribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=phillribeiro&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillribeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillribeiro&theme=radical&hide_border=false&&layout=compact"/>
+
+<div align="center" valign="top"><br>
 
 ## Tecnologias que eu uso no dia 
+<br/>
 
-<div style="display: inline_block"><br/>
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+</div><br>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
