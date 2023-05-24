@@ -7,7 +7,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipe-ribeiro-rocha-682a8b203/)
 
 ![phillribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=phillribeiro&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillribeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no dia 
