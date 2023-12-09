@@ -1,7 +1,7 @@
-## Olá! Eu me chamo Phillipe Ribeiro. Gosto muito da área da computação. Quero me tornar um Dev Front End. Atualmente estudo HTML5, CSS3 e Javascript. Quero continuar estudando e desenvolvendo projetos. Deixo abaixo o meu contato e minhas redes sociais para me conhecerem melhor.✌️
+## Olá! Eu sou Phillipe Ribeiro. Gosto muito da área da computação. Estudo Desenvolvimento Web e atualmente desenvolvo alguns projetos. Em meu currículo estão HTML5, CSS3, javascript e Git. Quero continuar estudando e desenvolvendo projetos. Deixo abaixo o meu contato e minhas redes sociais para me conhecerem melhor.✌️
 <br/>
 
-### Hello! My name is Phillipe Ribeiro. I like to work with the computer area. I want to become a Dev Front End. Currently I've been learning HTML5, CSS3 and Javascript. I want to keep also studying and developing more projects. I let my contact and my social medias below to meet me more. Thank you!!!
+### Hello! I'm Phillipe Ribeiro. I like to work with the computer area. I'm studying web development. Currently I've been developing some projects. In my resume are HTML5, CSS3, Javascript and Git. I want to keep also studying and developing more projects. I let my contact and my social medias below to meet me more. Thank you!!!
 <br/>
 
 <div align="center">
