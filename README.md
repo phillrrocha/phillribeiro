@@ -1,7 +1,7 @@
-## Olá! Eu sou Phillipe Ribeiro. Gosto muito da área da computação. Estudo Desenvolvimento Web e atualmente desenvolvo alguns projetos. Em meu currículo estão HTML5, CSS3, javascript e Git. Quero continuar estudando e desenvolvendo projetos. Deixo abaixo o meu contato e minhas redes sociais para me conhecerem melhor.✌️
+## Olá! Eu sou Philipe Rocha. Gosto muito da área da computação. Estudo Desenvolvimento Web e atualmente desenvolvo alguns projetos. Em meu currículo estão HTML5, CSS3, javascript e Git. Quero continuar estudando e desenvolvendo projetos. Deixo abaixo o meu contato e minhas redes sociais para me conhecerem melhor.✌️
 <br/>
 
-### Hello! I'm Phillipe Ribeiro. I like to work with the computer area. I'm studying web development. Currently I've been developing some projects. In my resume are HTML5, CSS3, Javascript and Git. I want to keep also studying and developing more projects. I let my contact and my social medias below to meet me more. Thank you!!!
+### Hello! I'm Philipe Rocha. I like to work with the computer area. I'm studying web development. Currently I've been developing some projects. In my resume are HTML5, CSS3, Javascript and Git. I want to keep also studying and developing more projects. I let my contact and my social medias below to meet me more. Thank you!!!
 <br/>
 
 <div align="center">
